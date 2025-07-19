@@ -208,3 +208,6 @@ __marimo__/
 # Custom model files
 *.h5
 .env
+__pycache__/
+*.pyc
+
